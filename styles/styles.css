@@ -1,0 +1,105 @@
+body{
+    background-color:aqua;
+    text-align: center;
+}
+div{
+   padding:30px; 
+   font-weight: bold;
+   margin: 0 auto;
+}
+button{
+    width:300px;
+    height:100px;
+    background-color: yellow;
+    box-shadow: 5px 5px 5px black;
+    cursor: pointer;
+    font-size: large;
+    font-weight: bold;
+}
+h1{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#tab {
+    width: 400px;
+    padding: 50px 0;
+    text-align: center;
+    background-color: yellow;
+    margin-top: 20px;
+    display:none;
+  }
+  #shift-tab {
+    width: 400px;
+    padding: 50px 0;
+    text-align: center;
+    background-color: yellow;
+    margin-top: 20px;
+    display:none;
+  }
+  #ctrlg {
+    width: 400px;
+    padding: 50px 0;
+    text-align: center;
+    background-color: yellow;
+    margin-top: 20px;
+    display:none;
+  }
+  #ctrlend {
+    width: 400px;
+    padding: 50px 0;
+    text-align: center;
+    background-color: yellow;
+    margin-top: 20px;
+    display:none;
+  }
+  #cntrlhome {
+    width: 400px;
+    padding: 50px 0;
+    text-align: center;
+    background-color: yellow;
+    margin-top: 20px;
+    display:none;
+  }
+  #altpagedown {
+    width: 400px;
+    padding: 50px 0;
+    text-align: center;
+    background-color: yellow;
+    margin-top: 20px;
+    display:none;
+  }
+  #ctrlpagedown {
+    width: 400px;
+    padding: 50px 0;
+    text-align: center;
+    background-color: yellow;
+    margin-top: 20px;
+    display:none;
+  }
+  #altpageup {
+    width: 400px;
+    padding: 50px 0;
+    text-align: center;
+    background-color: yellow;
+    margin-top: 20px;
+    display:none;
+  }
+  #ctrlpageup {
+    width: 400px;
+    padding: 50px 0;
+    text-align: center;
+    background-color: yellow;
+    margin-top: 20px;
+    display:none;
+  }
+  #ctrlarrow {
+    width: 400px;
+    padding: 50px 0;
+    text-align: center;
+    background-color: yellow;
+    margin-top: 20px;
+    display:none;
+  }
+  
