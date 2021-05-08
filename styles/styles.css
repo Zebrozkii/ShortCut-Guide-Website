@@ -1,6 +1,7 @@
 body{
     background-color:aqua;
     text-align: center;
+    padding:60px;
 }
 div{
    padding:30px; 
@@ -101,5 +102,9 @@ h2{
     background-color: yellow;
     margin-top: 20px;
     display:none;
+  }
+  li{
+    padding:5px;
+    font-weight:bold;
   }
   
